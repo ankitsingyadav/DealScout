@@ -219,8 +219,9 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fi
 ## 📮 Contact & Support
 
 - **Project Name**: DealScout
-- **Team**: TEAM LEXA
+- **Team**: DARK KODERS
 - **Maintainer**: [@tripcoded](https://github.com/tripcoded)
+- **Colaborator**: [@ankitsingyadav](https://github.com/ankitsingyadav) 
 - **Issues**: [GitHub Issues](../../issues)
 
 ---
